@@ -1,0 +1,16 @@
+[package]
+name = "mini-tokio"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+futures = "0.3.31"
+
+[features]
+default = ["test_5"]
+test_1 =[]
+test_2 =[]
+test_3 =[]
+test_4 =[]
+test_5 =[]
+
